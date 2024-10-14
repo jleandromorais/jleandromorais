@@ -33,16 +33,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jleandromorais/jleandromorais/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ1c3V5c2w3NHkzMnc5bGRwMmszNWtnem9lOHE4dWQzMjYxaDhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
 
 ###
 
-<p align="left">I really like programming, plus I really like meditating and reading philosophy.</p>
+<p align="left">I am a person passionate about learning and exploring new ideas. I love programming, delving into philosophy concepts and practicing therapy. These three areas help me balance the logic of code with deep reflections on life and mental self-care. The search for knowledge is something that motivates me daily, whether it's improving my programming skills or reflecting on philosophical questions while finding peace in meditation.</p>
 
 ###
