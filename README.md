@@ -33,6 +33,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/jleandromorais/jleandromorais/output/snake.svg" alt="Snake animation" />
 
 ###
