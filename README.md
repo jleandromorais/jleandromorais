@@ -1,4 +1,8 @@
-<h2 align="left">Hi👋!my name is Leandro and I'm a back end programmer, focused more on Java and Python programming, I currently live in Recife</h2>
+<h2 align="left">Olá👋!meu nome é Leandro e sou programador back end, mais focado em programação Java e Python<br>📌 atualmente moro em Recife</h2>
+
+###
+
+<p align="left">🛠️ Sobre Mim<br>Olá! Sou Leandro Morais, desenvolvedor back-end especializado em criar soluções robustas utilizando Java e bancos de dados relacionais. Tenho experiência com PostgreSQL e MySQL, e estou em busca de oportunidades para aplicar minhas habilidades em projetos impactantes e desafiadores.<br><br>📌 Tecnologias e Ferramentas<br><br>Linguagem: Java<br>Frameworks: Spring Boot<br>Banco de Dados: PostgreSQL, MySQL<br>🌱 O que estou aprendendo atualmente<br><br>Desenvolvimento de sites com JavaScript, HTML e CSS<br>Integração de back-end com Java (Spring Boot) usando APIs RESTful<br>📬 Como me encontrar<br><br>Email: leandromorais12345@outlook.com<br>LinkedIn: www.linkedin.com/in/leandro-morais-luz</p>
 
 ###
 
@@ -34,9 +38,5 @@
 ###
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ1c3V5c2w3NHkzMnc5bGRwMmszNWtnem9lOHE4dWQzMjYxaDhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
-
-###
-
-<p align="left">I am a person passionate about learning and exploring new ideas. I love programming, delving into philosophy concepts and practicing therapy. These three areas help me balance the logic of code with deep reflections on life and mental self-care. The search for knowledge is something that motivates me daily, whether it's improving my programming skills or reflecting on philosophical questions while finding peace in meditation.</p>
 
 ###
