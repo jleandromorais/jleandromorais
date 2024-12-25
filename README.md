@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋!meu nome é Leandro e sou programador back end, mais focado em programação Java e Python<br>📌 atualmente moro em Recife</h2>
+<h2 align="left">Olá👋!meu nome é Leandro e sou programador back end, mais focado em programação Java e Javascript<br>📌 atualmente moro em Recife</h2>
 
 ###
 
