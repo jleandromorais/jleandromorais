@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350em" src="https://github.com/jleandromorais/jleandromorais/blob/main/assets/Banner.jpg?raw=true"/>
+  <img height="350em" src="image.jpg"/>
 </div>
 
 <h3 align="center">
