@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Data Analyst Jr • Python Developer • Automation Specialist
+  Estagiario em dados • Python Developer • Automation Specialist
 </h3>
 
 <div align="center">
