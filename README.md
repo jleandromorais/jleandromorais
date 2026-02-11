@@ -1,3 +1,6 @@
+
+![Suas Linguagens](https://github-readme-stats.vercel.app)
+
 <div align="center">
   <img height="350em" src="image.jpeg"/>
 </div>
