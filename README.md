@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Data Intern • Python Developer • RPA & Data Engineering Enthusiast
+  Data Analyst Intern • Aspiring Data Engineer • Python Specialist
 </h3>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 <img src="https://github.com/jleandromorais/jleandromorais/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
-## 🧠 &nbsp;Tech Stack & Tools
+## 🧠 &nbsp;Data Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -24,12 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
   <img width="12"/>
@@ -45,16 +39,16 @@
 ## ☕ &nbsp;About Me
 
 - 👋 Hi! I'm **Leandro Morais**, currently an **Análise e Desenvolvimento de Sistemas (ADS)** student at Cesar School.
-- 💻 My professional focus is highly centered on **Python**, working as a Data Intern where I specialize in building internal tools, automation scripts, and complex data workflows.
-- 🚀 Exploring and steering my career towards **Data Engineering, Data Science, and Robotic Process Automation (RPA)**.
-- 🛠️ Developer of **desktop applications (GUI)** for data management and financial auditing using **CustomTkinter** and **SQLite**.
-- 🧾 Strong focus on **auditing, data comparison, and data quality** (Excel × XML × CSV).
-- 🎓 Proud of a strong academic foundation, having achieved top placements in engineering entrance exams (1st at UFPE, 2nd at UFCG, and 6th at UPE).
-- 🧩 I write clean, modular, and scalable code, applying **Separation of Concerns (SoC)** and Object-Oriented principles.
+- 📊 Working as a **Data Intern**, I specialize in building automated data pipelines, processing complex datasets, and ensuring data quality across financial and regulatory operations.
+- 🐍 My daily workflow revolves around **Python (Pandas, NumPy)** and SQL for data extraction, transformation, and loading (ETL).
+- 🧾 Strong expertise in **Data Auditing and Reconciliation**, routinely comparing massive datasets (Excel × XML × CSV) to identify anomalies and ensure compliance.
+- 🗄️ Experienced in **Relational Database Modeling** and structuring persistent local storage solutions for data applications.
+- 🚀 Exploring and steering my career towards **Data Engineering and Data Science**, with a keen interest in optimizing data architecture.
+- 🎓 Proud of a strong academic foundation in exact sciences, having achieved top placements in engineering entrance exams (1st at UFPE, 2nd at UFCG).
 
 <img src="https://github.com/jleandromorais/jleandromorais/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
-## 📌 &nbsp;Featured Projects
+## 📌 &nbsp;Featured Data Projects
 
 <table>
   <tbody>
@@ -68,14 +62,14 @@
 </td>
 
 <td valign="top">
-<h3>Plataforma Conta Gráfica (SCG)</h3>
+<h3>Financial Data Pipeline & Dashboard (SCG)</h3>
 <p>
-Robust desktop application developed to automate the calculation of the <strong>Sistema de Conta Gráfica (SCG)</strong> and <strong>Weighted Average Sales Price (PMPV)</strong>, ensuring compliance with state regulations.
+Robust application developed to automate the ETL process and calculate the <strong>Sistema de Conta Gráfica (SCG)</strong> and financial metrics. Replaced manual spreadsheets with a fully automated data workflow.
 </p>
 <ul>
-<li><strong>Architecture:</strong> Modular design (UI, Database layer, Business Logic)</li>
-<li><strong>Techs:</strong> Python, CustomTkinter (GUI), SQLite, Pandas, Pytest</li>
-<li><strong>Features:</strong> Automated Excel data extraction, persistent local storage, and real-time dashboard visualization.</li>
+<li><strong>Data Focus:</strong> Automated Excel data extraction, cleaning, and transformation.</li>
+<li><strong>Techs:</strong> Python, Pandas, SQLite, Pytest</li>
+<li><strong>Impact:</strong> Ensures strict data governance and regulatory compliance through automated calculations and persistent local storage.</li>
 </ul>
 <a href="https://github.com/jleandromorais/plataforma-conta-grafica"> <img src="https://img.shields.io/badge/View%20Project-27AE60?style=for-the-badge"/>
 </a>
@@ -90,13 +84,14 @@ Robust desktop application developed to automate the calculation of the <strong>
 </td>
 
 <td valign="top">
-<h3>XML × Excel Audit Tool</h3>
+<h3>XML × Excel Automated Audit Tool</h3>
 <p>
-Automation and data auditing project that compares fiscal data between Excel spreadsheets and XML files, identifying inconsistencies automatically.
+Data auditing project that cross-references fiscal data between massive Excel spreadsheets and XML files, identifying inconsistencies automatically.
 </p>
 <ul>
+<li><strong>Data Focus:</strong> Data Quality Assurance, anomaly detection, and reporting.</li>
 <li><strong>Techs:</strong> Python, Pandas, OpenPyXL</li>
-<li><strong>Features:</strong> Automated Excel reports with highlights and strict data quality validation.</li>
+<li><strong>Impact:</strong> Generates automated diagnostic reports highlighting discrepancies, drastically reducing manual auditing time.</li>
 </ul>
 <a href="https://github.com/jleandromorais/auditoria-xml-excel">
 <img src="https://img.shields.io/badge/View%20Project-4169E1?style=for-the-badge"/>
@@ -107,18 +102,18 @@ Automation and data auditing project that compares fiscal data between Excel spr
 <tr>
 <td align="center" valign="top"><br/>
 <a href="https://github.com/jleandromorais/sos-escola">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 </a>
 </td>
 
 <td valign="top">
-<h3>S.O.S Escola</h3>
+<h3>S.O.S Escola - Data Registration Platform</h3>
 <p>
-Platform with data registration and tracking features, focusing on structured data storage and user interaction.
+Platform focused on structured data collection, storage, and user information tracking.
 </p>
 <ul>
-<li><strong>Techs:</strong> JavaScript, React, Node.js</li>
-<li><strong>Features:</strong> Data modeling, structured forms, and backend validation.</li>
+<li><strong>Data Focus:</strong> Relational data modeling, structured input validation, and secure backend storage.</li>
+<li><strong>Techs:</strong> Node.js, Relational Databases</li>
 </ul>
 <a href="https://github.com/jleandromorais/sos-escola">
 <img src="https://img.shields.io/badge/View%20Project-FFC222?style=for-the-badge"/>
