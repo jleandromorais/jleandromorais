@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Leandro%20Morais&fontSize=55&fontColor=80F7D4&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Aspiring%20Data%20Engineer%20%E2%80%A2%20Python%20Specialist&descAlignY=58&descColor=a0aec0&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Leandro%20Morais&fontSize=55&fontColor=80F7D4&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%2B%20Spring%20Boot%20%E2%80%A2%20Automation%20Specialist&descAlignY=58&descColor=a0aec0&descSize=18"/>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=80F7D4&center=true&vCenter=true&width=600&lines=Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Building+ETL+Pipelines+%7C+Data+Quality;Python+%2B+SQL+%2B+Curiosidade+%3D+Insights;Rumo+a+Data+Engineering+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=80F7D4&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;React+%2B+TypeScript+%2B+Spring+Boot;Full+Stack+Developer+%7C+DevOps+Enthusiast;Automating+Everything+Possible+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,40 +12,54 @@
 
 ## 👨‍💻 &nbsp;Sobre mim
 
-Sou **Leandro Morais**, estudante de **Análise e Desenvolvimento de Sistemas na Cesar School** e **Data Analyst Intern**, apaixonado por transformar dados brutos em inteligência acionável.
+Sou **Leandro Morais**, estudante de **Análise e Desenvolvimento de Sistemas na Cesar School** e **Full Stack Developer**, especializado em criar aplicações web modernas, escaláveis e eficientes.
 
-No meu dia a dia trabalho com **pipelines de dados automatizados**, **auditorias fiscais** e **qualidade de dados** em operações financeiras — combinando Python, SQL e lógica analítica para resolver problemas reais. Meu objetivo é migrar para **Data Engineering**, construindo arquiteturas de dados robustas e escaláveis.
+Minha stack combina **React + TypeScript no frontend** com **Spring Boot no backend**, criando arquiteturas robustas e APIs RESTful performáticas. Tenho forte foco em **automação de processos**, **CI/CD** e **boas práticas de engenharia de software**.
 
-> *"Dados sem contexto são apenas números. Dados com análise são vantagem competitiva."*
+> *"Clean code, automated tests, and scalable architecture — the foundation of great software."*
 
 ---
 
 ## 🧠 &nbsp;Stack & Ferramentas
 
-**Linguagens & Processamento**
+**Frontend**
 
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=80F7D4)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=databricks&logoColor=80F7D4)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=80F7D4)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=80F7D4)
 
 **Bancos de Dados**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=80F7D4)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=80F7D4)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=80F7D4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-**DevOps & Infra**
+**DevOps & Automação**
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=80F7D4)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=80F7D4)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=80F7D4)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
-**Em Estudo 🔭**
 
-![Apache Airflow](https://img.shields.io/badge/Airflow-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=80F7D4)
-![dbt](https://img.shields.io/badge/dbt-0d1117?style=for-the-badge&logo=dbt&logoColor=80F7D4)
-![Spark](https://img.shields.io/badge/Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=80F7D4)
+**Testes & Qualidade**
+
+![Jest](https://img.shields.io/badge/Jest-0d1117?style=for-the-badge&logo=jest&logoColor=C21325)
+![JUnit](https://img.shields.io/badge/JUnit-0d1117?style=for-the-badge&logo=junit5&logoColor=25A162)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
 
 ---
 
@@ -68,37 +82,37 @@ No meu dia a dia trabalho com **pipelines de dados automatizados**, **auditorias
 
 ## 🚀 &nbsp;Projetos em Destaque
 
-### 🏦 Financial Data Pipeline & Dashboard (SCG)
-> Automação ETL completa para o **Sistema de Conta Gráfica**, substituindo planilhas manuais por um pipeline robusto com governança de dados e conformidade regulatória.
+### 🏦 Financial Management Platform
+> Plataforma full stack para gestão financeira com **React + TypeScript** no frontend e **Spring Boot + PostgreSQL** no backend. Inclui autenticação JWT, dashboards em tempo real e pipeline CI/CD automatizado.
 
-`Python` `Pandas` `SQLite` `Pytest` `ETL`
+`React` `TypeScript` `Spring Boot` `PostgreSQL` `Docker` `GitHub Actions`
 
 [![View](https://img.shields.io/badge/Ver%20Projeto-0d1117?style=for-the-badge&logo=github&logoColor=80F7D4)](https://github.com/jleandromorais/plataforma-conta-grafica)
 
 ---
 
-### 🤖 AnalisAI — Análise de Dados com IA
-> Plataforma inteligente que combina **análise de dados automatizada com IA**, entregando insights de forma conversacional e acessível.
+### 🤖 AnalisAI — AI-Powered Analytics Platform
+> SaaS de análise de dados com IA integrada. Frontend moderno em **React + TypeScript** com backend robusto, processamento assíncrono e API RESTful escalável.
 
-`Python` `LLM` `Data Analysis` `Frontend`
+`React` `TypeScript` `Node.js` `Python` `Redis` `MongoDB`
 
 [![View](https://img.shields.io/badge/Ver%20Projeto-0d1117?style=for-the-badge&logo=github&logoColor=80F7D4)](https://github.com/jleandromorais/AnalisAI-Front)
 
 ---
 
-### 🛒 E-commerce Data Analysis
-> Exploração e análise de dados de e-commerce, identificando padrões de comportamento do consumidor e oportunidades de negócio através de visualizações e estatísticas.
+### 🛒 E-commerce Microservices Platform
+> Arquitetura de microsserviços completa com serviços separados para produtos, pedidos, pagamentos e usuários. Comunicação via REST APIs, containerização com Docker e orquestração com Kubernetes.
 
-`Python` `Pandas` `EDA` `Data Visualization`
+`Spring Boot` `React` `PostgreSQL` `Docker` `Kubernetes` `Nginx`
 
 [![View](https://img.shields.io/badge/Ver%20Projeto-0d1117?style=for-the-badge&logo=github&logoColor=80F7D4)](https://github.com/jleandromorais/analise-dados-ecommerce)
 
 ---
 
-### 🔍 XML × Excel Automated Audit Tool
-> Ferramenta de auditoria fiscal que cruza dados entre planilhas Excel e arquivos XML, detectando inconsistências automaticamente e gerando relatórios diagnósticos.
+### 🔄 Automated CI/CD Pipeline System
+> Sistema completo de integração e entrega contínua com testes automatizados, análise de código estático, builds otimizados e deploy automatizado em múltiplos ambientes.
 
-`Python` `Pandas` `OpenPyXL` `Data Quality`
+`GitHub Actions` `Docker` `Jest` `JUnit` `SonarQube` `Nginx`
 
 [![View](https://img.shields.io/badge/Ver%20Projeto-0d1117?style=for-the-badge&logo=github&logoColor=80F7D4)](https://github.com/jleandromorais/auditoria-xml-excel)
 
@@ -106,15 +120,42 @@ No meu dia a dia trabalho com **pipelines de dados automatizados**, **auditorias
 
 ## 🎯 &nbsp;Foco Atual
 
-```python
-leandro = {
-    "role":       "Data Analyst Intern → Data Engineer",
-    "studying":   ["Apache Airflow", "dbt", "Spark", "Cloud (AWS/GCP)"],
-    "building":   "Pipelines escaláveis e arquiteturas de dados modernas",
-    "achievement": "1º lugar UFPE | 2º lugar UFCG nos vestibulares de exatas",
-    "goal":       "Construir sistemas de dados que geram impacto real 🚀"
+```typescript
+const leandro: Developer = {
+  role: "Full Stack Developer",
+  frontend: ["React", "TypeScript", "Next.js", "TailwindCSS"],
+  backend: ["Spring Boot", "Node.js", "PostgreSQL", "Redis"],
+  devops: ["Docker", "Kubernetes", "CI/CD", "GitHub Actions"],
+  architecture: ["Microservices", "REST APIs", "Event-Driven"],
+  studying: ["AWS", "GraphQL", "Kafka", "System Design"],
+  passion: "Building scalable applications with clean code 🚀"
 }
 ```
+
+---
+
+## 💼 &nbsp;Competências Full Stack
+
+### **Frontend Development**
+- ⚛️ Desenvolvimento de SPAs com React + TypeScript
+- 🎨 UI/UX responsivo com TailwindCSS e Material-UI
+- 🔄 Gerenciamento de estado com Redux/Context API
+- 🧪 Testes unitários e E2E com Jest e Cypress
+- ⚡ Performance optimization e lazy loading
+
+### **Backend Development**
+- ☕ APIs RESTful robustas com Spring Boot
+- 🔐 Autenticação e autorização (JWT, OAuth2)
+- 🗄️ Design e otimização de bancos de dados
+- 📝 Documentação com Swagger/OpenAPI
+- 🔄 Processamento assíncrono e filas de mensagens
+
+### **DevOps & Automação**
+- 🐳 Containerização com Docker
+- ☸️ Orquestração com Kubernetes
+- 🔄 Pipelines CI/CD (GitHub Actions, Jenkins)
+- 📊 Monitoramento e logging
+- 🔧 Infrastructure as Code
 
 ---
 
@@ -125,13 +166,14 @@ leandro = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/jleandromorais)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:leandro.morais@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jleandromorais)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=80F7D4)](https://jleandromorais.dev)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Feito com ☕ e muito <code>pandas</code> por Leandro Morais</sub>
+<sub>Built with ☕ and a lot of <code>TypeScript</code> by Leandro Morais</sub>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
